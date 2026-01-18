@@ -25,6 +25,15 @@ The system is designed for **unattended, long-running operation** in a real-worl
 
 ---
 
+## Demo Video
+
+A short clip showing the system automatically switching between posters on the TV display.  
+All production code is private to protect the organization.
+
+[Watch Demo Video](assets/demonstration.mov)
+
+---
+
 ## System Architecture (High-Level)
 Admin (Content Management)
 ↓
