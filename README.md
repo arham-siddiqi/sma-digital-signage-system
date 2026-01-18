@@ -62,9 +62,9 @@ TV Display
 ---
 
 ## Deployment Status
-✔ Actively deployed in a live environment  
-✔ Used by real users  
-✔ Designed for continuous operation
+- Actively deployed in a live environment
+- Used by real users
+- Designed for continuous operation
 
 ---
 
