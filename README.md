@@ -15,7 +15,7 @@ SMA required a reliable, low-maintenance way to display high-definition announce
 ---
 
 ## Solution
-I designed and implemented a Raspberry Pi–based signage platform with:
+I designed and implemented a Raspberry Pi-based signage platform with:
 - Automated data ingestion from a cloud-managed source
 - A browser-based kiosk frontend
 - Boot-time auto-launch and crash recovery
